@@ -7,7 +7,6 @@ Proyek UAS mata kuliah Web Fullstack. Sweet Bite adalah website toko kue online 
 - **Nama:** Yunisa Hani Latifah
 - **NIM:** 2305101119
 - **Mata Kuliah:** Web Fullstack
-- **Universitas:** PGRI Madiun (UNIPMA)
 
 ## Bahasa Pemrograman
 
