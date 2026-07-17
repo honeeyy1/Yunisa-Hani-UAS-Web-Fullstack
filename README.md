@@ -76,18 +76,22 @@ Proyek UAS mata kuliah Web Fullstack. Sweet Bite adalah website toko kue online 
 - Password: admin123
 
 
+login
+
+
+<img width="470" height="295" alt="image" src="https://github.com/user-attachments/assets/bca065e2-5d07-4480-83be-62c691b95471" />
 
 bagian home
 
 
-<img width="960" height="540" alt="Screenshot 2026-07-17 105159" src="https://github.com/user-attachments/assets/dbb9fdff-871d-4f30-93ab-30c38c02faa1" />
+<img width="790" height="540" alt="Screenshot 2026-07-17 105159" src="https://github.com/user-attachments/assets/dbb9fdff-871d-4f30-93ab-30c38c02faa1" />
 
 
 list menu
 
 
-<img width="960" height="540" alt="Screenshot 2026-07-17 105219" src="https://github.com/user-attachments/assets/fa3aa919-e611-4c4d-a78a-314169f4e99b" />
+<img width="790" height="540" alt="Screenshot 2026-07-17 105219" src="https://github.com/user-attachments/assets/fa3aa919-e611-4c4d-a78a-314169f4e99b" />
 
 
 
-<img width="960" height="540" alt="Screenshot 2026-07-17 105247" src="https://github.com/user-attachments/assets/0d115ad6-5671-43a6-a8f9-9c7c812f0c9c" />
+<img width="790" height="540" alt="Screenshot 2026-07-17 105247" src="https://github.com/user-attachments/assets/0d115ad6-5671-43a6-a8f9-9c7c812f0c9c" />
